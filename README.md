@@ -8,6 +8,7 @@
 
 I build applied AI systems that combine language models, document processing, information retrieval and software engineering to solve practical business problems.
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Camilo_Andrés_Cruz-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/camilo-andres-cruz)
 [![GitHub](https://img.shields.io/badge/GitHub-camilocruzc3-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/camilocruzc3)
 
 </div>
@@ -166,6 +167,5 @@ Applied AI
 
 ## Connect with me
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Camilo_Andrés_Cruz-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/camilo-andres-cruz)
 [![GitHub](https://img.shields.io/badge/GitHub-camilocruzc3-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/camilocruzc3)
-
-<!-- Add the LinkedIn badge here once the exact profile URL is available. -->
