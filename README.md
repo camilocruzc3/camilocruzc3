@@ -2,33 +2,110 @@
 
 # Hi, I'm Camilo Cruz 👋
 
-### AI Software Engineer
+### AI Software Engineer | RAG · AI Agents · MCP · Document Intelligence
 
-**RAG · AI Agents · Model Context Protocol · Document Intelligence · Privacy-Preserving AI · Python**
+I design and build applied AI systems that transform documents and business workflows into traceable, controlled and human-reviewable applications.
 
-I build applied AI systems that combine language models, document processing, information retrieval and software engineering to solve practical business problems.
+My work focuses on Python, retrieval-augmented generation, agentic architectures, intelligent document processing and privacy-aware AI.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Camilo_Andrés_Cruz-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/camilo-andres-cruz)
-[![GitHub](https://img.shields.io/badge/GitHub-camilocruzc3-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/camilocruzc3)
 
 </div>
 
 ---
 
-## About me
+## What I build
 
-- Building AI-powered applications with Python.
-- Developing Retrieval-Augmented Generation and document intelligence systems.
-- Exploring agentic architectures and Model Context Protocol integrations.
-- Designing privacy-aware AI workflows for handling sensitive information.
-- Strengthening my knowledge of cloud AI, machine learning and production-ready AI systems.
-- Interested in opportunities and collaborations in AI Software Engineering.
+- **Retrieval-Augmented Generation systems** for querying PDF and Excel knowledge bases with hybrid retrieval and source traceability.
+- **AI agents and MCP integrations** with explicit orchestration, controlled tool execution and human-review fallbacks.
+- **Intelligent document-processing pipelines** for extracting, validating and exporting structured information from scanned forms.
+- **Privacy-aware AI architectures** that reduce the exposure of sensitive information before external model calls.
+- **Production-oriented Python applications** with modular components, configuration management, validation and security controls.
 
 ---
 
-## Core technologies
+## Featured projects
 
-### AI and language models
+### [Enterprise Document RAG Assistant](https://github.com/camilocruzc3/enterprise-document-rag-assistant)
+
+RAG assistant for querying PDF and Excel knowledge bases using hybrid semantic and keyword retrieval, optional OCR and traceable source evidence.
+
+`Python` `OpenAI API` `ChromaDB` `BM25` `Flask` `PyMuPDF` `Tesseract`
+
+**Engineering focus:** token-aware chunking, metadata-rich retrieval, evidence inspection, source highlighting and controlled local access.
+
+**Status:** Public portfolio case study based on a private working implementation.
+
+---
+
+### [API-Orchestrated MCP Agent](https://github.com/camilocruzc3/api-orchestrated-mcp-agent)
+
+Programmatic AI agent in which a Python application owns the reasoning and tool-execution loop through the OpenAI API and local MCP capabilities.
+
+`Python` `OpenAI Responses API` `MCP` `FastMCP` `FastAPI` `JSON` `YAML`
+
+**Engineering focus:** deterministic execution policies, argument validation, tool-call limits, side-effect controls and human-in-the-loop review.
+
+**Status:** Public portfolio reconstruction of a private working architecture.
+
+---
+
+### [Intelligent Form Data Extractor](https://github.com/camilocruzc3/intelligent-form-data-extractor)
+
+Intelligent Document Processing application that extracts, structures, validates and exports information from scanned forms.
+
+`Python` `Amazon Textract` `pandas` `openpyxl` `PDF Processing` `Desktop UI`
+
+**Engineering focus:** spatial field association, confidence-aware extraction, configurable business rules, data normalization and manual review workflows.
+
+**Status:** Public portfolio case study based on a private working implementation.
+
+---
+
+### [Client-Orchestrated MCP Assistant](https://github.com/camilocruzc3/client-orchestrated-mcp-assistant)
+
+Local MCP tool server that gives compatible AI desktop clients controlled capabilities to search, inspect, download and monitor public documents.
+
+`Python` `FastMCP` `Playwright` `BeautifulSoup` `asyncio` `SMTP`
+
+**Engineering focus:** client-side orchestration, domain allowlisting, safe downloads, filename sanitization and separation between model, client and tools.
+
+**Status:** Public portfolio case study based on a private working implementation.
+
+---
+
+### [Privacy-Preserving AI Chat](https://github.com/camilocruzc3/privacy-preserving-ai-chat)
+
+Architecture for a local privacy gateway that pseudonymizes sensitive information before requests reach external AI models and restores protected values locally.
+
+`Python Architecture` `Pseudonymization` `Threat Modeling` `Privacy by Design`
+
+**Engineering focus:** trusted local processing, fail-closed behavior, scoped placeholders, response validation and controlled restoration.
+
+**Status:** Architecture concept — implementation planned.
+
+---
+
+## Engineering approach
+
+```text
+Applied AI system
+├── Clear business problem and bounded scope
+├── Separation between model, orchestration and tools
+├── Retrieval or extraction with traceable evidence
+├── Deterministic validation before side effects
+├── Human review for sensitive or uncertain cases
+├── Privacy-aware logging and configuration
+└── Explicit limitations, security notes and roadmap
+```
+
+I am especially interested in systems where language models operate inside a controlled software architecture rather than acting as the sole source of decisions.
+
+---
+
+## Technology stack
+
+### AI engineering
 
 ![OpenAI](https://img.shields.io/badge/OpenAI-API-412991?style=flat-square&logo=openai&logoColor=white)
 ![RAG](https://img.shields.io/badge/RAG-Systems-2563EB?style=flat-square)
@@ -36,136 +113,42 @@ I build applied AI systems that combine language models, document processing, in
 ![MCP](https://img.shields.io/badge/Model_Context_Protocol-MCP-D97706?style=flat-square)
 ![Embeddings](https://img.shields.io/badge/Vector-Embeddings-059669?style=flat-square)
 
-### Development
+### Backend and orchestration
 
 ![Python](https://img.shields.io/badge/Python-3.11-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-Backend-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-Web_API-000000?style=flat-square&logo=flask&logoColor=white)
 ![FastMCP](https://img.shields.io/badge/FastMCP-Tool_Servers-0F766E?style=flat-square)
-![Git](https://img.shields.io/badge/Git-Version_Control-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-Portfolio-181717?style=flat-square&logo=github&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-Automation-2EAD33?style=flat-square&logo=playwright&logoColor=white)
 
-### Data and document intelligence
+### Retrieval, data and document AI
 
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-Vector_Store-F59E0B?style=flat-square)
 ![BM25](https://img.shields.io/badge/BM25-Hybrid_Retrieval-2563EB?style=flat-square)
-![OCR](https://img.shields.io/badge/OCR-Tesseract-15803D?style=flat-square)
-![PDF](https://img.shields.io/badge/PDF-Processing-B91C1C?style=flat-square)
-![Playwright](https://img.shields.io/badge/Playwright-Automation-2EAD33?style=flat-square&logo=playwright&logoColor=white)
+![Textract](https://img.shields.io/badge/Amazon_Textract-Document_AI-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![Tesseract](https://img.shields.io/badge/Tesseract-OCR-15803D?style=flat-square)
+![pandas](https://img.shields.io/badge/pandas-Data_Processing-150458?style=flat-square&logo=pandas&logoColor=white)
+
+### Engineering practices
+
+![Git](https://img.shields.io/badge/Git-Version_Control-F05032?style=flat-square&logo=git&logoColor=white)
+![Testing](https://img.shields.io/badge/Testing-Validation-334155?style=flat-square)
+![Security](https://img.shields.io/badge/Security-Controls-B91C1C?style=flat-square)
+![HITL](https://img.shields.io/badge/Human--in--the--Loop-Review-7C3AED?style=flat-square)
 
 ---
 
-## Featured projects
+## Currently developing
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### [Enterprise Document RAG Assistant](https://github.com/camilocruzc3/enterprise-document-rag-assistant)
-
-Enterprise-oriented assistant for querying PDF and Excel files using OpenAI embeddings, ChromaDB, BM25, OCR and hybrid retrieval.
-
-**Highlights:**
-
-- Retrieval-Augmented Generation architecture
-- Hybrid semantic and keyword retrieval
-- PDF and Excel ingestion
-- OCR for scanned documents
-- Answers with source references
-
-</td>
-<td width="50%" valign="top">
-
-### [Client-Orchestrated MCP Assistant](https://github.com/camilocruzc3/client-orchestrated-mcp-assistant)
-
-Local Model Context Protocol server that gives AI desktop clients controlled tools to search, inspect, download and monitor public documents.
-
-**Highlights:**
-
-- Client-side AI orchestration
-- Local MCP server with FastMCP
-- Controlled document downloads
-- URL and file validation
-- Automated monitoring and notifications
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### [API-Orchestrated MCP Agent](https://github.com/camilocruzc3/api-orchestrated-mcp-agent)
-
-Programmatic AI agent in which a language model API manages the reasoning and tool-execution loop through MCP-compatible capabilities.
-
-**Highlights:**
-
-- API-driven agent orchestration
-- Explicit reasoning and tool loop
-- Structured tool execution
-- Separation between model, orchestrator and tools
-
-</td>
-<td width="50%" valign="top">
-
-### [Intelligent Form Data Extractor](https://github.com/camilocruzc3/intelligent-form-data-extractor)
-
-Document-processing application for extracting structured information from handwritten and scanned forms.
-
-**Highlights:**
-
-- OCR and image preprocessing
-- Structured data extraction
-- Document validation workflows
-- Python-based processing pipeline
-
-</td>
-</tr>
-</table>
-
-### [Privacy-Preserving AI Chat](https://github.com/camilocruzc3/privacy-preserving-ai-chat) — In progress
-
-An evolving architecture for an AI chat application that protects sensitive information before sending requests to external language models.
-
-Current focus: sensitive-data detection, anonymization, controlled restoration, model routing and local auditability.
-
----
-
-## Current learning
-
-I am continuing to strengthen my applied AI and software engineering skills through:
-
-- AWS learning focused on general artificial intelligence, machine learning and cloud concepts.
-- OpenAI Academy learning resources.
-- **Claude Code in Action**, focused on practical AI-assisted development workflows.
-- Continuing education and diploma-level training in artificial intelligence.
-- Upcoming **Diploma in Artificial Intelligence Applied to Business** at Universidad de La Sabana, starting in August 2026.
-
-Current learning priorities:
-
-- Production-ready RAG systems
-- Retrieval and response evaluation
-- Agentic application architectures
-- Cloud AI services
-- Security and privacy for AI applications
-- Testing, observability and deployment of AI systems
-
----
-
-## Engineering interests
-
-```text
-Applied AI
-├── Retrieval-Augmented Generation
-├── AI agents and tool use
-├── Model Context Protocol
-├── Document intelligence
-├── Privacy-preserving AI
-├── Hybrid information retrieval
-└── Production-oriented Python systems
-```
+- Evaluation and observability for production-oriented RAG systems.
+- Secure agentic architectures with deterministic policies and human oversight.
+- Cloud deployment patterns for applied AI applications.
+- Testing strategies for retrieval, extraction and tool-execution workflows.
 
 ---
 
 ## Connect with me
 
+I am interested in AI Software Engineering opportunities and collaborations involving RAG, AI agents, MCP, document intelligence and privacy-aware automation.
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Camilo_Andrés_Cruz-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/camilo-andres-cruz)
-[![GitHub](https://img.shields.io/badge/GitHub-camilocruzc3-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/camilocruzc3)
