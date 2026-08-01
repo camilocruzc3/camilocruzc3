@@ -2,7 +2,7 @@
 
 # Hi, I'm Camilo Cruz 👋
 
-### AI Software Engineer | RAG · AI Agents · MCP · Document Intelligence
+### Applied AI Developer | RAG · AI Agents · MCP · Document Intelligence
 
 I design and build applied AI systems that transform documents and business workflows into traceable, controlled and human-reviewable applications.
 
