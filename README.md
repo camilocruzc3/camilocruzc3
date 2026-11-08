@@ -2,11 +2,11 @@
 
 # Hi, I'm Camilo Cruz 👋
 
-### Applied AI Developer | RAG · AI Agents · MCP · Document Intelligence
+### Applied AI Developer | RAG · AI Agents · MCP · Intelligent Automation
 
 I design and build applied AI systems that transform documents and business workflows into traceable, controlled and human-reviewable applications.
 
-My work focuses on Python, retrieval-augmented generation, agentic architectures, intelligent document processing and privacy-aware AI.
+My work focuses on Python, retrieval-augmented generation, multi-agent orchestration, intelligent document processing and privacy-aware AI.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Camilo_Andrés_Cruz-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/camilo-andres-cruz)
 
@@ -18,6 +18,7 @@ My work focuses on Python, retrieval-augmented generation, agentic architectures
 
 - **Retrieval-Augmented Generation systems** for querying PDF and Excel knowledge bases with hybrid retrieval and source traceability.
 - **AI agents and MCP integrations** with explicit orchestration, controlled tool execution and human-review fallbacks.
+- **Multi-agent editorial automation** for source-based research, content generation, audio preparation and approval-gated delivery.
 - **Intelligent document-processing pipelines** for extracting, validating and exporting structured information from scanned forms.
 - **Privacy-aware AI architectures** that reduce the exposure of sensitive information before external model calls.
 - **Production-oriented Python applications** with modular components, configuration management, validation and security controls.
@@ -25,6 +26,18 @@ My work focuses on Python, retrieval-augmented generation, agentic architectures
 ---
 
 ## Featured projects
+
+### [AI Newsroom — Multi-Agent Newsletter System](https://github.com/camilocruzc3/ai-newsroom-multi-agent)
+
+Working Python-based editorial application coordinating specialized AI agents to research and verify news, draft content, prepare audio narration and produce HTML newsletters with human approval before distribution.
+
+`Python` `OpenAI API` `Multi-Agent Orchestration` `ElevenLabs` `Cloudflare R2` `Gmail`
+
+**Engineering focus:** agent specialization, source traceability, editorial memory, workflow state management, quality gates and controlled delivery.
+
+**Public repository:** Technical case study, application screenshots, architecture and selected standalone components; full application source remains private.
+
+---
 
 ### [Enterprise Document RAG Assistant](https://github.com/camilocruzc3/enterprise-document-rag-assistant)
 
@@ -34,7 +47,7 @@ RAG assistant for querying PDF and Excel knowledge bases using hybrid semantic a
 
 **Engineering focus:** token-aware chunking, metadata-rich retrieval, evidence inspection, source highlighting and controlled local access.
 
-**Status:** Public portfolio case study based on a private working implementation.
+**Public repository:** Technical case study of a working application, with selected reusable components and screenshots.
 
 ---
 
@@ -46,7 +59,7 @@ Programmatic AI agent in which a Python application owns the reasoning and tool-
 
 **Engineering focus:** deterministic execution policies, argument validation, tool-call limits, side-effect controls and human-in-the-loop review.
 
-**Status:** Public portfolio reconstruction of a private working architecture.
+**Public repository:** Runnable synthetic demonstration of a working orchestration architecture.
 
 ---
 
