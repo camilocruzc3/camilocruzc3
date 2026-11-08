@@ -123,7 +123,7 @@ I am especially interested in systems where language models operate inside a con
 ![OpenAI](https://img.shields.io/badge/OpenAI-API-412991?style=flat-square&logo=openai&logoColor=white)
 ![RAG](https://img.shields.io/badge/RAG-Systems-2563EB?style=flat-square)
 ![AI Agents](https://img.shields.io/badge/AI-Agents-7C3AED?style=flat-square)
-![Multi-Agent](https://img.shields.io/badge/Multi--Agent-Orchestration-6D28D9?style=flat-square)
+![Multi-Agent](https://img.shields.io/static/v1?label=Multi-Agent&message=Orchestration&color=6D28D9&style=flat-square)
 ![MCP](https://img.shields.io/badge/Model_Context_Protocol-MCP-D97706?style=flat-square)
 ![Embeddings](https://img.shields.io/badge/Vector-Embeddings-059669?style=flat-square)
 
@@ -134,14 +134,14 @@ I am especially interested in systems where language models operate inside a con
 ![Flask](https://img.shields.io/badge/Flask-Web_API-000000?style=flat-square&logo=flask&logoColor=white)
 ![FastMCP](https://img.shields.io/badge/FastMCP-Tool_Servers-0F766E?style=flat-square)
 ![Playwright](https://img.shields.io/badge/Playwright-Automation-2EAD33?style=flat-square&logo=playwright&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-Persistence-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![SQLite](https://img.shields.io/static/v1?label=SQLite&message=Persistence&color=003B57&style=flat-square)
 
 ### Cloud & External Integrations
 
 ![Amazon Textract](https://img.shields.io/badge/Amazon_Textract-Document_AI-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
 ![Cloudflare R2](https://img.shields.io/badge/Cloudflare_R2-Object_Storage-F38020?style=flat-square&logo=cloudflare&logoColor=white)
-![ElevenLabs](https://img.shields.io/badge/ElevenLabs-Text_to_Speech-111827?style=flat-square)
-![Gmail API](https://img.shields.io/badge/Gmail-API-EA4335?style=flat-square&logo=gmail&logoColor=white)
+![ElevenLabs](https://img.shields.io/static/v1?label=ElevenLabs&message=Text%20to%20Speech&color=111827&style=flat-square)
+![Gmail API](https://img.shields.io/static/v1?label=Gmail&message=API&color=EA4335&style=flat-square)
 
 ### Retrieval & Data Processing
 
@@ -149,13 +149,13 @@ I am especially interested in systems where language models operate inside a con
 ![BM25](https://img.shields.io/badge/BM25-Hybrid_Retrieval-2563EB?style=flat-square)
 ![Tesseract](https://img.shields.io/badge/Tesseract-OCR-15803D?style=flat-square)
 ![pandas](https://img.shields.io/badge/pandas-Data_Processing-150458?style=flat-square&logo=pandas&logoColor=white)
-![openpyxl](https://img.shields.io/badge/openpyxl-Excel_Processing-217346?style=flat-square)
+![openpyxl](https://img.shields.io/static/v1?label=openpyxl&message=Excel%20Processing&color=217346&style=flat-square)
 
 ### Engineering Practices
 
 ![Git](https://img.shields.io/badge/Git-Version_Control-F05032?style=flat-square&logo=git&logoColor=white)
-![Testing](https://img.shields.io/badge/Automated-Testing-334155?style=flat-square)
-![Validation](https://img.shields.io/badge/Data-Validation-0F766E?style=flat-square)
+![Testing](https://img.shields.io/static/v1?label=Automated&message=Testing&color=334155&style=flat-square)
+![Validation](https://img.shields.io/static/v1?label=Data&message=Validation&color=0F766E&style=flat-square)
 ![Security](https://img.shields.io/badge/Security-Controls-B91C1C?style=flat-square)
 ![HITL](https://img.shields.io/badge/Human--in--the--Loop-Review-7C3AED?style=flat-square)
 
